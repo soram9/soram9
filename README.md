@@ -31,7 +31,7 @@ The vision is an intelligent system that operates on privately controlled infras
 
 ### ⚙️ Technology & Development
 
-Project Aletheia explores and integrates:
+Areas planned for exploration and evaluation include:
 
 - Local large language models and adaptive AI orchestration
 - Python, Linux, and open-source infrastructure
@@ -42,7 +42,9 @@ Project Aletheia explores and integrates:
 - Machine-checkable verification and governed self-maintenance
 - Privacy-first automation and modular system integration
 
-**Development Status:** Active development and incremental validation. Capabilities are being tested and certified rather than assumed complete.
+**Development Status:** Long-term development initiative. The capabilities above describe the intended direction; their implementation and validation are not established by this profile.
+
+**Public project documentation:** [Project Aletheia](https://github.com/soram9/project-aletheia) · [Vision](https://github.com/soram9/project-aletheia/blob/main/VISION.md) · [Roadmap](https://github.com/soram9/project-aletheia/blob/main/ROADMAP.md) · [Principles](https://github.com/soram9/project-aletheia/blob/main/PRINCIPLES.md) · [Security](https://github.com/soram9/project-aletheia/blob/main/SECURITY.md)
 
 ---
 
